@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/CSharpAssignment.csproj": {}
+  },
+  "projects": {
+    "/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/CSharpAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/CSharpAssignment.csproj",
+        "projectName": "CSharpAssignment",
+        "projectPath": "/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/CSharpAssignment.csproj",
+        "packagesPath": "/Users/michaelfrancke/.nuget/packages/",
+        "outputPath": "/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michaelfrancke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/michaelfrancke/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

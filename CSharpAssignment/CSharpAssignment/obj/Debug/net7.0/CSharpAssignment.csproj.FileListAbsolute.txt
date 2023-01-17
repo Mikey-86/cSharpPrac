@@ -1,0 +1,15 @@
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.csproj.AssemblyReference.cache
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.AssemblyInfoInputs.cache
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.AssemblyInfo.cs
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.csproj.CoreCompileInputs.cache
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/bin/Debug/net7.0/CSharpAssignment
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/bin/Debug/net7.0/CSharpAssignment.deps.json
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/bin/Debug/net7.0/CSharpAssignment.runtimeconfig.json
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/bin/Debug/net7.0/CSharpAssignment.dll
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/bin/Debug/net7.0/CSharpAssignment.pdb
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.dll
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/refint/CSharpAssignment.dll
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.pdb
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/CSharpAssignment.genruntimeconfig.cache
+/Users/michaelfrancke/RiderProjects/CSharpAssignment/CSharpAssignment/obj/Debug/net7.0/ref/CSharpAssignment.dll
